@@ -10,19 +10,23 @@ layout: default
 
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# [Bài 1](./posts/post_001.html)
+<!-- # [Bài 1](./posts/post_001.html)
 ---
-<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small>
-
+<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small> -->
+<span style="font-size: 28px;">[Bài 1](./posts/post_001.html)</span>
+<span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
+<hr>
 <iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
 <br/><br/>
 
-# Bài 2
+<!-- # Bài 2
 ---
-<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small>
-
+<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small> -->
+<span style="font-size: 28px;">[Bài 2](./posts/post_002.html)</span>
+<span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
+<hr>
 Text here...
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
