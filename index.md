@@ -12,6 +12,9 @@ layout: default
 
 # [Bài 1](./another-page.html)
 Text here...
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=DWcJFNfaw9c">
+</iframe>
 
 # Bài 2
 Text here...
