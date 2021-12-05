@@ -15,10 +15,11 @@ layout: default
 <iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
-
----
+<br/><br/>
+<br/><br/>
 
 # Bài 2
+---
 Text here...
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
