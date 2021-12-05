@@ -14,10 +14,6 @@ layout: default
 ---
 <small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small> -->
 
-<span style="font-size: 25px;">About Me</span>
-<!-- <hr> -->
-
-Text here...
 
 <span style="font-size: 25px;">[Bài 1: Tiêu đề bài 1](./posts/post_001.html)</span>
 <span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
