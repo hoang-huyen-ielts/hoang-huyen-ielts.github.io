@@ -44,20 +44,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+<!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-```
+``` -->
 
-```ruby
+<!-- ```ruby
 # Ruby code with syntax highlighting
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
 #### Header 4
 
@@ -120,7 +120,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://docs.github.com/assets/images/help/repository/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
