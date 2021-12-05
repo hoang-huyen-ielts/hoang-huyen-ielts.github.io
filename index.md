@@ -11,8 +11,8 @@ layout: default
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # [Bài 1](./another-page.html)
-Text here... 2
-<iframe width="360" height="270"
+Text here...
+<iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
 
