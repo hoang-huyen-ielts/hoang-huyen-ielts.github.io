@@ -3,6 +3,6 @@ layout: default
 ---
 
 ## Bài 1
-Text here 2...
+Text here...
 
-[back](././)
+[back](./index.html)
