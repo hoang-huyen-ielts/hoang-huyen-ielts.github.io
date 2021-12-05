@@ -16,7 +16,6 @@ layout: default
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
 <br/><br/>
-<br/><br/>
 
 # Bài 2
 ---
