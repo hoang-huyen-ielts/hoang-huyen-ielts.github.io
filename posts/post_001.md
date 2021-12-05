@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 ---
 
 ## Bài 1
-Text here...
+Text here 2...
 
-[back](./)
+[back](././)
