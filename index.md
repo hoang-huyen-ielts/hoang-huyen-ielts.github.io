@@ -16,6 +16,7 @@ layout: default
 <span style="font-size: 28px;">[Bài 1: Tiêu đề bài 1](./posts/post_001.html)</span>
 <span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
 <!-- <hr> -->
+
 Tóm tắt nội dung bài 1...
 <iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
@@ -28,6 +29,7 @@ Tóm tắt nội dung bài 1...
 <span style="font-size: 28px;">[Bài 2: Tiêu đề bài 2](./posts/post_002.html)</span>
 <span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
 <!-- <hr> -->
+
 Text here...
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
