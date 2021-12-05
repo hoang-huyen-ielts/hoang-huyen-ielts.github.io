@@ -11,7 +11,7 @@ layout: default
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # [Bài 1](./another-page.html)
-<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Huyền Hoàng</a>_</small>
+<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small>
 <iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
