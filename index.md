@@ -11,7 +11,9 @@ layout: default
 <!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
 # [Bài 1](./posts/post_001.html)
+---
 <small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small>
+
 <iframe width="300" height="230"
   src="https://www.youtube.com/embed/hxmUjXXTmpU">
 </iframe>
@@ -19,6 +21,8 @@ layout: default
 
 # Bài 2
 ---
+<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small>
+
 Text here...
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.

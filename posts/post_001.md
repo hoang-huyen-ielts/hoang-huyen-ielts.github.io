@@ -10,4 +10,4 @@ Text here...
 </iframe>
 
 <!-- [home](/index.html) -->
-<a href="#" onclick="history.go(-1)">back</a>
+<!-- <a href="#" onclick="history.go(-1)">back</a> -->
