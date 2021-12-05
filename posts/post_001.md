@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Bài 1
-Text here...
+Text here 1...
 
-[back](./index.html)
+<!-- [home](/index.html) -->
+<a href="#" onclick="history.go(-1)">back</a>
