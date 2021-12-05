@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
-
-<!-- [Link to another page](./another-page.html). -->
-
-<!-- There should be whitespace between paragraphs. -->
-
-<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
-
-<!-- # [Bài 1](./posts/post_001.html)
----
-<small>- _Dec 4, 2021 by <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</small> -->
-
-
 <span style="font-size: 25px;"><b>[Bài 1: Tiêu đề bài 1](./posts/post_001.html)</b></span>
 <span style="font-size: 12px;">&nbsp;&nbsp; _Dec 4, 2021 bởi <a href="https://www.facebook.com/hoang.huyen.332" target="_blank">Hoàng Huyền</a>_</span>
 
